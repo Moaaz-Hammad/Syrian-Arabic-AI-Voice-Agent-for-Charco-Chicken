@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+openai-whisper
+elevenlabs
+requests
+python-dotenv
+pydub
+soundfile
+livekit 
